@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@download/blockies": "^1.0.3",
+    "ethers": "^6.15.0",
+    "react-router-dom": "^7.6.3"
+  }
+}
